@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+}
+.section {
+  position: relative;
+  height: 1100px;
+  width: auto;
+  background-color: #f3f3f3;
+  background: url('images/logo.png') center 30% no-repeat;
+  background-size: cover;
+}
+footer {
+  background-color: #ffffff;
+  text-align: center;
+  font-family: 'Arial';
+}
+/**** Mobile layout ****/
+@media (max-width: 900px) {
+  .section {
+    height: 400px;
+  }
+}
