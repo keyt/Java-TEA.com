@@ -1,3 +1,3 @@
 # Java-TEA.com
 
-[Java-TEA.com](/logo.png)
+![Java-TEA.com](/logo.png)
