@@ -3,6 +3,7 @@ html, body {
   height: 100%;
   margin: 0;
   padding: 0;
+  background-color: #ffffff;
 }
 html {
   display: table;
@@ -11,4 +12,11 @@ body {
   display: table-cell;
   text-align: center;
   vertical-align: middle;
+}
+footer {
+  text-align: center;
+  font-family: 'Arial';
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
